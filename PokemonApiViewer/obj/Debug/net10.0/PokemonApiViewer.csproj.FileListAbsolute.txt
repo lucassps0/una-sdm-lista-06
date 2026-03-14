@@ -1,0 +1,14 @@
+D:\ProjetoAprender\atividade6\PokemonApiViewer\bin\Debug\net10.0\PokemonApiViewer.exe
+D:\ProjetoAprender\atividade6\PokemonApiViewer\bin\Debug\net10.0\PokemonApiViewer.deps.json
+D:\ProjetoAprender\atividade6\PokemonApiViewer\bin\Debug\net10.0\PokemonApiViewer.runtimeconfig.json
+D:\ProjetoAprender\atividade6\PokemonApiViewer\bin\Debug\net10.0\PokemonApiViewer.dll
+D:\ProjetoAprender\atividade6\PokemonApiViewer\bin\Debug\net10.0\PokemonApiViewer.pdb
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\PokemonApiViewer.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\PokemonApiViewer.AssemblyInfoInputs.cache
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\PokemonApiViewer.AssemblyInfo.cs
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\PokemonApiViewer.csproj.CoreCompileInputs.cache
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\PokemonApiViewer.dll
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\refint\PokemonApiViewer.dll
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\PokemonApiViewer.pdb
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\PokemonApiViewer.genruntimeconfig.cache
+D:\ProjetoAprender\atividade6\PokemonApiViewer\obj\Debug\net10.0\ref\PokemonApiViewer.dll
